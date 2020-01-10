@@ -1,0 +1,49 @@
+{
+    "interactionModel": {
+        "languageModel": {
+            "invocationName": "próximos lanzamientos de juegos",
+            "intents": [
+                {
+                    "name": "AMAZON.CancelIntent",
+                    "samples": [
+                        "cancel"
+                    ]
+                },
+                {
+                    "name": "AMAZON.HelpIntent",
+                    "samples": [
+                        "ayuda"
+                    ]
+                },
+                {
+                    "name": "AMAZON.StopIntent",
+                    "samples": [
+                        "salir"
+                    ]
+                },
+                {
+                    "name": "AMAZON.NavigateHomeIntent",
+                    "samples": []
+                },
+                {
+                    "name": "proximoJuego",
+                    "slots": [],
+                    "samples": [
+                        "juego más cercano",
+                        "juego más cercano de lanzamiento"
+                    ]
+                },
+                {
+                    "name": "siguienteJuego",
+                    "slots": [],
+                    "samples": [
+                        "próximo lanzamiento",
+                        "próximo juego",
+                        "próximo juego de lanzamiento"
+                    ]
+                }
+            ],
+            "types": []
+        }
+    }
+}
