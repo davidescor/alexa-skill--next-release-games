@@ -21,7 +21,7 @@ Skiil for alexa, now you will know the next release of the game.
 
 ## Amazon store
 
-[https://www.amazon.es/dp/B083QNKW9B](https://www.amazon.es/dp/B083QNKW9B/)
+[Amazon store](https://www.amazon.es/dp/B083QNKW9B/)
 
 
 ## Authors
