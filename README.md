@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.postimg.cc/6p5dYpwQ/41plh7-K9jm-L.png">
+  <img src="http://davidespier.com/core/design/img/alexa/game.png">
 </p>
 
 # alexa-skill-next-release-games
