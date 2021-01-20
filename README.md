@@ -16,8 +16,6 @@ Skiil for alexa, now you will know the next release of the game.
 
 2. Create Lambda -> function and copy 'Lambda/index.js' in your function.
 
-3. Add the radios depending on the musical genre in the url provided in 'Lambda / index.js'.
-
 
 ## Amazon store
 
